@@ -1,0 +1,62 @@
+about:
+  description: Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+  license: GPL-3.0
+  homepage: https://flameshot.org
+  head: 32790fc
+  archived: false
+  latestVersion: v14.0.0
+  collectedAt: 2026-08-29T07:25:29Z
+timeline:
+  created: 2017-05-10
+  lastCommit: 2026-08-28
+  lastRelease: 2026-06-19
+popularity:
+  star: 30709
+  watcher: 214
+  fork: 2005
+  release: 35
+  contributor: 348
+  pullRequest: 318
+  issue: 3166
+language:
+  C++: 752316
+  CMake: 45926
+  Shell: 24438
+  Roff: 8989
+  Nix: 4698
+  C: 1164
+  Makefile: 843
+totalLine: 838374
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 14
+    openPR: 15
+    closedIssue: 5
+    openIssue: 21
+    commit: 20
+  last90d:
+    since: 2026-05-31
+    release: 2
+    mergedPR: 52
+    openPR: 19
+    closedIssue: 56
+    openIssue: 51
+    commit: 55
+  last180d:
+    since: 2026-03-02
+    release: 3
+    mergedPR: 104
+    openPR: 28
+    closedIssue: 106
+    openIssue: 78
+    commit: 104
+  last360d:
+    since: 2025-09-03
+    release: 5
+    mergedPR: 171
+    openPR: 31
+    closedIssue: 277
+    openIssue: 111
+    commit: 174
