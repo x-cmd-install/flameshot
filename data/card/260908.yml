@@ -5,7 +5,7 @@ about:
   head: 45eb42d
   archived: false
   latestVersion: "v14.0.0"
-  collectedAt: 2026-09-08T02:16:59Z
+  collectedAt: 2026-09-08T05:01:52Z
 timeline:
   created: 2017-05-10
   lastCommit: 2026-09-07
@@ -85,7 +85,7 @@ total:
   commit: 2365
 ---
 path: /home/runner/.x-repo/github.com/flameshot-org/flameshot
-collectedAt: 2026-09-08T02:17:01Z
+collectedAt: 2026-09-08T05:01:56Z
 loc:
   TypeScript:
     code: 157691
