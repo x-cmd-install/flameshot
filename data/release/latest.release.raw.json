@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 40337524,
       "digest": "sha256:bb0cccb2223ce0f4bfea00d90658e85fb5dc17aa7773bf2b22c70ffdb23d7221",
-      "download_count": 58078,
+      "download_count": 58178,
       "created_at": "2026-06-19T01:19:12Z",
       "updated_at": "2026-06-19T01:19:21Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0-macos-arm64.dmg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:5abb4cccc575265701e48f6596aec7464260dca93b43f66368ed50b8f621b93c",
-      "download_count": 462,
+      "download_count": 469,
       "created_at": "2026-06-19T01:18:21Z",
       "updated_at": "2026-06-19T01:18:22Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0-macos-arm64.dmg.sha256sum"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 40337550,
       "digest": "sha256:871653260d9298db2e2a85e121c514f753dfdca94dccabbd74c142a2438f3d78",
-      "download_count": 3868,
+      "download_count": 3880,
       "created_at": "2026-06-19T01:19:02Z",
       "updated_at": "2026-06-19T01:19:12Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0-macos-intel.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:3c7fe09953e51a784dcefe481fec05f03cf39aafd53c3a7c0e63c95ce1e5ca08",
-      "download_count": 207,
+      "download_count": 208,
       "created_at": "2026-06-19T01:18:21Z",
       "updated_at": "2026-06-19T01:18:21Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0-macos-intel.dmg.sha256sum"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 19030016,
       "digest": "sha256:b3c38680c792410812e787d48ac1825c771fb044380d45789719b9e8373327ea",
-      "download_count": 122972,
+      "download_count": 123324,
       "created_at": "2026-06-19T01:18:13Z",
       "updated_at": "2026-06-19T01:18:18Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0.0-win64.msi"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:69d7376ca69419be64d67534cad1e1f94e4cf22d9db30fd665dae6b840889c3b",
-      "download_count": 327,
+      "download_count": 328,
       "created_at": "2026-06-19T01:18:21Z",
       "updated_at": "2026-06-19T01:18:21Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0.0-win64.msi.sha256sum"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 55619743,
       "digest": "sha256:4dca8914d79e759902cc7d2621b6554636c62748d1ae7f554f15d9ddd3bb4632",
-      "download_count": 17552,
+      "download_count": 17612,
       "created_at": "2026-06-19T01:18:22Z",
       "updated_at": "2026-06-19T01:18:32Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-14.0.0-win64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:c1631a277a5858649d915a397f780d20ed93de8b38300e1fe8eaba5b543e53b5",
-      "download_count": 296,
+      "download_count": 297,
       "created_at": "2026-06-19T01:18:21Z",
       "updated_at": "2026-06-19T01:18:21Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-14.0.0-win64.zip.sha256sum"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 57437346,
       "digest": "sha256:93ad1261ccae9387d35fd39a8b9428451163dfcba3f32658d80ec02ab0597789",
-      "download_count": 4515,
+      "download_count": 4530,
       "created_at": "2026-06-19T01:18:47Z",
       "updated_at": "2026-06-19T01:19:02Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-appimage-x86_64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 125,
       "digest": "sha256:cae1be827173af162e26bdc48f498e4aee45c624d0dbc127ab45d4d0c4104391",
-      "download_count": 488,
+      "download_count": 489,
       "created_at": "2026-06-19T01:18:21Z",
       "updated_at": "2026-06-19T01:18:21Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-appimage-x86_64.zip.sha256sum"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 819137,
       "digest": "sha256:f8846eba71a8c093594792fa51e3aed7459b46298762316e476ff0948bf66845",
-      "download_count": 1637,
+      "download_count": 1640,
       "created_at": "2026-06-19T01:18:46Z",
       "updated_at": "2026-06-19T01:18:47Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-debian-12-amd64.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 125,
       "digest": "sha256:24dd78b1ee95a1b4435f01b9aa2aa776b21b69c44314efe5ef81211e50c79a9f",
-      "download_count": 170,
+      "download_count": 171,
       "created_at": "2026-06-19T01:18:20Z",
       "updated_at": "2026-06-19T01:18:21Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-debian-12-amd64.zip.sha256sum"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 1602078,
       "digest": "sha256:86179a017be76b86dadda332fd4f50c53de88a6adc89a1c4893c9432f0c3a3ec",
-      "download_count": 403,
+      "download_count": 404,
       "created_at": "2026-06-19T01:18:42Z",
       "updated_at": "2026-06-19T01:18:43Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-flatpak-x86_64.zip"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 767943,
       "digest": "sha256:b5b2f2cb1707aad3b785699a688d6bf0f1bfd20f92d1812659c9e7794d38b54b",
-      "download_count": 1316,
+      "download_count": 1324,
       "created_at": "2026-06-19T01:18:43Z",
       "updated_at": "2026-06-19T01:18:43Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-ubuntu-22.04-amd64.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 752374,
       "digest": "sha256:b606091fe8f915ad4926c8734236e12701898d3f9a77eb38c5693606e4d834e5",
-      "download_count": 2675,
+      "download_count": 2686,
       "created_at": "2026-06-19T01:18:44Z",
       "updated_at": "2026-06-19T01:18:44Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-ubuntu-24.04-amd64.zip"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 128,
       "digest": "sha256:68cf037f2b9cbecb94584fed28daa059f05b8140d8c4e27c6713c71ccbb1a00c",
-      "download_count": 195,
+      "download_count": 196,
       "created_at": "2026-06-19T01:18:18Z",
       "updated_at": "2026-06-19T01:18:18Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-ubuntu-24.04-arm64.zip.sha256sum"
