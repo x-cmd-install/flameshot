@@ -7,7 +7,7 @@ about:
   latestVersion: "v14.0.0"
   latestRelease: "v14.0.0"
   latestPrerelease: "v14.0.rc3"
-  collectedAt: 2026-09-10T21:31:52Z
+  collectedAt: 2026-09-10T22:16:47Z
 timeline:
   created: 2017-05-10
   lastCommit: 2026-09-08
@@ -89,7 +89,7 @@ total:
   commit: 2366
 ---
 path: /home/runner/.x-repo/github.com/flameshot-org/flameshot
-collectedAt: 2026-09-10T21:31:57Z
+collectedAt: 2026-09-10T22:16:51Z
 loc:
   TypeScript:
     code: 157691

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 40337524,
       "digest": "sha256:bb0cccb2223ce0f4bfea00d90658e85fb5dc17aa7773bf2b22c70ffdb23d7221",
-      "download_count": 58427,
+      "download_count": 58430,
       "created_at": "2026-06-19T01:19:12Z",
       "updated_at": "2026-06-19T01:19:21Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0-macos-arm64.dmg"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 19030016,
       "digest": "sha256:b3c38680c792410812e787d48ac1825c771fb044380d45789719b9e8373327ea",
-      "download_count": 124444,
+      "download_count": 124469,
       "created_at": "2026-06-19T01:18:13Z",
       "updated_at": "2026-06-19T01:18:18Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0.0-win64.msi"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 55619743,
       "digest": "sha256:4dca8914d79e759902cc7d2621b6554636c62748d1ae7f554f15d9ddd3bb4632",
-      "download_count": 17791,
+      "download_count": 17794,
       "created_at": "2026-06-19T01:18:22Z",
       "updated_at": "2026-06-19T01:18:32Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-14.0.0-win64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 57437346,
       "digest": "sha256:93ad1261ccae9387d35fd39a8b9428451163dfcba3f32658d80ec02ab0597789",
-      "download_count": 4584,
+      "download_count": 4586,
       "created_at": "2026-06-19T01:18:47Z",
       "updated_at": "2026-06-19T01:19:02Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-appimage-x86_64.zip"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 767943,
       "digest": "sha256:b5b2f2cb1707aad3b785699a688d6bf0f1bfd20f92d1812659c9e7794d38b54b",
-      "download_count": 1334,
+      "download_count": 1335,
       "created_at": "2026-06-19T01:18:43Z",
       "updated_at": "2026-06-19T01:18:43Z",
       "browser_download_url": "https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0%2Bgit0.da6121bd-artifact-ubuntu-22.04-amd64.zip"
