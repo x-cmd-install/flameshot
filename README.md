@@ -4,7 +4,7 @@
 
 Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 
-![flameshot](https://repo.x-cmd.io/flameshot.svg)
+[![x-cmd/install — flameshot Code Quality Monitoring Repo Card](https://repo.x-cmd.io/flameshot.svg)](https://x-cmd.com/install/flameshot)
 
 ## Install
 
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v14.0.0` (2026-06-19)
+- **Latest**: `v15.0.rc1` (2026-06-19)
 - **Last commit**: 2026-09-17
 - **Assets in release**: 32
 
 ## Popularity
 
-- **Stars**: 30,879 · **Forks**: 2,020 · **Open issues**: 3,182 · **Contributors**: 353
+- **Stars**: 30,894 · **Forks**: 2,025 · **Open issues**: 3,183 · **Contributors**: 353
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 1155 · **Open PRs**: 57 · **Closed issues**: 2515 · **Open issues**: 667 · **Commits**: 2371
+- **Releases**: 36 · **Merged PRs**: 1155 · **Open PRs**: 58 · **Closed issues**: 2517 · **Open issues**: 666 · **Commits**: 2371
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 16 | 11 | 12 | 18 | 18 |
-| last60d | 2026-07-20 | 0 | 30 | 20 | 27 | 29 | 39 |
-| 90d | 2026-06-20 | 0 | 50 | 22 | 48 | 45 | 57 |
-| last180d | 2026-03-22 | 3 | 103 | 33 | 103 | 77 | 105 |
-| 360d | 2025-09-23 | 5 | 173 | 36 | 272 | 114 | 174 |
-| last720d | 2024-09-28 | 10 | 319 | 40 | 503 | 188 | 419 |
+| 30d | 2026-08-21 | 1 | 14 | 10 | 11 | 15 | 18 |
+| last60d | 2026-07-22 | 1 | 29 | 21 | 24 | 29 | 39 |
+| 90d | 2026-06-22 | 1 | 49 | 23 | 47 | 45 | 57 |
+| last180d | 2026-03-24 | 4 | 102 | 34 | 103 | 78 | 105 |
+| 360d | 2025-09-25 | 6 | 171 | 37 | 272 | 115 | 174 |
+| last720d | 2024-09-30 | 11 | 319 | 41 | 502 | 188 | 419 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for flameshot lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:21:28Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:23:13Z._
