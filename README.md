@@ -4,7 +4,7 @@
 
 Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 
-[![x-cmd/install — flameshot Code Quality Monitoring Repo Card](https://repo.x-cmd.io/flameshot.svg)](https://x-cmd.com/install/flameshot)
+[![x-cmd/install — flameshot Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/flameshot.svg)](https://x-cmd.com/install/flameshot)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 30,902 · **Forks**: 2,028 · **Open issues**: 3,186 · **Contributors**: 353
+- **Stars**: 30,911 · **Forks**: 2,029 · **Open issues**: 3,186 · **Contributors**: 353
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1155 · **Open PRs**: 61 · **Closed issues**: 2517 · **Open issues**: 669 · **Commits**: 2371
+- **Releases**: 36 · **Merged PRs**: 1155 · **Open PRs**: 62 · **Closed issues**: 2517 · **Open issues**: 669 · **Commits**: 2371
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 14 | 11 | 11 | 17 | 15 |
-| last60d | 2026-07-24 | 1 | 28 | 24 | 23 | 32 | 37 |
-| 90d | 2026-06-24 | 1 | 47 | 26 | 45 | 47 | 55 |
-| last180d | 2026-03-26 | 4 | 102 | 37 | 99 | 81 | 98 |
-| 360d | 2025-09-27 | 6 | 170 | 40 | 270 | 117 | 169 |
-| last720d | 2024-10-02 | 11 | 319 | 44 | 501 | 191 | 419 |
+| 30d | 2026-08-24 | 1 | 12 | 12 | 11 | 17 | 15 |
+| last60d | 2026-07-25 | 1 | 28 | 25 | 23 | 32 | 37 |
+| 90d | 2026-06-25 | 1 | 45 | 27 | 44 | 46 | 55 |
+| last180d | 2026-03-27 | 4 | 101 | 38 | 98 | 81 | 98 |
+| 360d | 2025-09-28 | 6 | 170 | 41 | 269 | 117 | 169 |
+| last720d | 2024-10-03 | 11 | 319 | 45 | 501 | 190 | 419 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for flameshot lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:24:19Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:25:06Z._

@@ -4,7 +4,7 @@
 
 Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 
-[![x-cmd/install — flameshot Code Quality Monitoring Repo Card](https://repo.x-cmd.io/flameshot.svg?lang=zh)](https://x-cmd.com/install/flameshot)
+[![x-cmd/install — flameshot Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/flameshot.svg?lang=zh)](https://x-cmd.com/install/flameshot)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install flameshot
 
 ## 流行度
 
-- **Star**: 30,902 · **Fork**: 2,028 · **开放 issue**: 3,186 · **贡献者**: 353
+- **Star**: 30,911 · **Fork**: 2,029 · **开放 issue**: 3,186 · **贡献者**: 353
 
 ## 累计统计
 
-- **发布数**: 36 · **已合并 PR**: 1155 · **开放 PR**: 61 · **已关闭 issue**: 2517 · **开放 issue**: 669 · **提交数**: 2371
+- **发布数**: 36 · **已合并 PR**: 1155 · **开放 PR**: 62 · **已关闭 issue**: 2517 · **开放 issue**: 669 · **提交数**: 2371
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 14 | 11 | 11 | 17 | 15 |
-| last60d | 2026-07-24 | 1 | 28 | 24 | 23 | 32 | 37 |
-| 90d | 2026-06-24 | 1 | 47 | 26 | 45 | 47 | 55 |
-| last180d | 2026-03-26 | 4 | 102 | 37 | 99 | 81 | 98 |
-| 360d | 2025-09-27 | 6 | 170 | 40 | 270 | 117 | 169 |
-| last720d | 2024-10-02 | 11 | 319 | 44 | 501 | 191 | 419 |
+| 30d | 2026-08-24 | 1 | 12 | 12 | 11 | 17 | 15 |
+| last60d | 2026-07-25 | 1 | 28 | 25 | 23 | 32 | 37 |
+| 90d | 2026-06-25 | 1 | 45 | 27 | 44 | 46 | 55 |
+| last180d | 2026-03-27 | 4 | 101 | 38 | 98 | 81 | 98 |
+| 360d | 2025-09-28 | 6 | 170 | 41 | 269 | 117 | 169 |
+| last720d | 2024-10-03 | 11 | 319 | 45 | 501 | 190 | 419 |
 
 ## Release 资产
 
@@ -111,4 +111,4 @@ flameshot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:24:21Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:25:07Z._
