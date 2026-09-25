@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 1 | 12 | 12 | 10 | 15 | 15 |
-| last60d | 2026-07-26 | 1 | 28 | 25 | 22 | 31 | 37 |
-| 90d | 2026-06-26 | 1 | 45 | 27 | 43 | 46 | 55 |
-| last180d | 2026-03-28 | 4 | 99 | 38 | 98 | 80 | 98 |
-| 360d | 2025-09-29 | 6 | 169 | 41 | 267 | 117 | 169 |
-| last720d | 2024-10-04 | 11 | 319 | 45 | 501 | 190 | 419 |
+| 30d | 2026-08-26 | 1 | 12 | 12 | 10 | 14 | 15 |
+| last60d | 2026-07-27 | 1 | 27 | 25 | 21 | 31 | 37 |
+| 90d | 2026-06-27 | 1 | 45 | 27 | 43 | 46 | 55 |
+| last180d | 2026-03-29 | 4 | 99 | 38 | 98 | 80 | 98 |
+| 360d | 2025-09-30 | 6 | 169 | 41 | 266 | 117 | 169 |
+| last720d | 2024-10-05 | 11 | 319 | 45 | 501 | 190 | 419 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for flameshot lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:05:11Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:25:30Z._
