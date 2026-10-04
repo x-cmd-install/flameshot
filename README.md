@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v15.0.rc1` (2026-06-19)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-10-03
 - **Assets in release**: 32
 
 ## Popularity
 
-- **Stars**: 31,067 · **Forks**: 2,044 · **Open issues**: 3,191 · **Contributors**: 353
+- **Stars**: 31,077 · **Forks**: 2,046 · **Open issues**: 3,191 · **Contributors**: 354
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1155 · **Open PRs**: 75 · **Closed issues**: 2521 · **Open issues**: 670 · **Commits**: 2371
+- **Releases**: 36 · **Merged PRs**: 1157 · **Open PRs**: 73 · **Closed issues**: 2521 · **Open issues**: 670 · **Commits**: 2373
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 7 | 24 | 5 | 12 | 9 |
-| last60d | 2026-08-04 | 1 | 25 | 38 | 17 | 31 | 26 |
-| 90d | 2026-07-05 | 1 | 40 | 38 | 37 | 42 | 44 |
-| last180d | 2026-04-06 | 4 | 86 | 51 | 95 | 78 | 88 |
-| 360d | 2025-10-08 | 6 | 165 | 54 | 258 | 117 | 166 |
-| last720d | 2024-10-13 | 11 | 319 | 57 | 503 | 190 | 419 |
+| 30d | 2026-09-04 | 1 | 9 | 23 | 4 | 12 | 11 |
+| last60d | 2026-08-05 | 1 | 27 | 37 | 16 | 31 | 28 |
+| 90d | 2026-07-06 | 1 | 40 | 37 | 36 | 41 | 46 |
+| last180d | 2026-04-07 | 3 | 84 | 49 | 93 | 77 | 90 |
+| 360d | 2025-10-09 | 6 | 167 | 52 | 257 | 117 | 168 |
+| last720d | 2024-10-14 | 11 | 321 | 55 | 502 | 190 | 421 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for flameshot lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:38:30Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:19:09Z._
