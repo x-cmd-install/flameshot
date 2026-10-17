@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v15.0.rc1` (2026-06-19)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-16
 - **Assets in release**: 32
 
 ## Popularity
 
-- **Stars**: 31,209 · **Forks**: 2,062 · **Open issues**: 3,191 · **Contributors**: 359
+- **Stars**: 31,223 · **Forks**: 2,063 · **Open issues**: 3,191 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1164 · **Open PRs**: 70 · **Closed issues**: 2520 · **Open issues**: 671 · **Commits**: 2380
+- **Releases**: 36 · **Merged PRs**: 1165 · **Open PRs**: 70 · **Closed issues**: 2520 · **Open issues**: 671 · **Commits**: 2381
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 8 | 19 | 2 | 10 | 9 |
-| last60d | 2026-08-17 | 1 | 28 | 30 | 15 | 30 | 28 |
-| 90d | 2026-07-18 | 1 | 40 | 35 | 30 | 38 | 49 |
-| last180d | 2026-04-19 | 3 | 88 | 45 | 90 | 75 | 89 |
-| 360d | 2025-10-21 | 6 | 174 | 49 | 250 | 116 | 174 |
-| last720d | 2024-10-26 | 11 | 326 | 52 | 499 | 188 | 428 |
+| 30d | 2026-09-17 | 1 | 8 | 18 | 2 | 10 | 10 |
+| last60d | 2026-08-18 | 1 | 26 | 30 | 15 | 27 | 29 |
+| 90d | 2026-07-19 | 1 | 41 | 35 | 30 | 38 | 50 |
+| last180d | 2026-04-20 | 3 | 88 | 45 | 90 | 74 | 90 |
+| 360d | 2025-10-22 | 6 | 173 | 49 | 249 | 116 | 175 |
+| last720d | 2024-10-27 | 11 | 327 | 52 | 499 | 187 | 429 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for flameshot lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:55:37Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:42:34Z._
