@@ -14,13 +14,13 @@ x install flameshot
 
 ## 代码洞察
 
-合计: **184,072** 行代码（覆盖前 5 种语言、共 **388** 个文件）。
+合计: **184,131** 行代码（覆盖前 5 种语言、共 **388** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | TypeScript | 161,052 | 0 | 0 | 49 |
-| Cpp | 16,514 | 1,239 | 2,457 | 113 |
-| CHeader | 3,650 | 459 | 1,021 | 112 |
+| Cpp | 16,572 | 1,246 | 2,463 | 113 |
+| CHeader | 3,651 | 459 | 1,021 | 112 |
 | CMake | 1,008 | 79 | 160 | 15 |
 | Svg | 671 | 6 | 0 | 99 |
 
@@ -43,27 +43,27 @@ x install flameshot
 ## 发布
 
 - **最新版本**: `v15.0.rc1` (2026-06-19)
-- **最近提交**: 2026-10-21
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 32 个
 
 ## 流行度
 
-- **Star**: 31,287 · **Fork**: 2,071 · **开放 issue**: 3,194 · **贡献者**: 361
+- **Star**: 31,297 · **Fork**: 2,073 · **开放 issue**: 3,194 · **贡献者**: 362
 
 ## 累计统计
 
-- **发布数**: 36 · **已合并 PR**: 1168 · **开放 PR**: 71 · **已关闭 issue**: 2524 · **开放 issue**: 670 · **提交数**: 2384
+- **发布数**: 36 · **已合并 PR**: 1170 · **开放 PR**: 70 · **已关闭 issue**: 2525 · **开放 issue**: 669 · **提交数**: 2386
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 8 | 19 | 4 | 7 | 13 |
-| last60d | 2026-08-23 | 1 | 27 | 23 | 16 | 23 | 29 |
-| 90d | 2026-07-24 | 1 | 41 | 36 | 28 | 38 | 51 |
-| last180d | 2026-04-25 | 3 | 88 | 44 | 90 | 72 | 91 |
-| 360d | 2025-10-27 | 6 | 172 | 50 | 242 | 114 | 170 |
-| last720d | 2024-11-01 | 11 | 327 | 53 | 500 | 184 | 432 |
+| 30d | 2026-09-23 | 0 | 10 | 17 | 4 | 7 | 15 |
+| last60d | 2026-08-24 | 1 | 27 | 22 | 17 | 22 | 31 |
+| 90d | 2026-07-25 | 1 | 43 | 35 | 29 | 37 | 53 |
+| last180d | 2026-04-26 | 3 | 89 | 43 | 90 | 71 | 93 |
+| 360d | 2025-10-28 | 5 | 171 | 49 | 239 | 111 | 172 |
+| last720d | 2024-11-02 | 11 | 329 | 52 | 500 | 183 | 434 |
 
 ## Release 资产
 
@@ -102,6 +102,24 @@ x install flameshot
 | [flameshot-v14.0+git0.da6121bd-artifact-ubuntu-24.04-arm64.zip](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-ubuntu-24.04-arm64.zip) | 714.6 KiB | `other` |
 | [flameshot-v14.0+git0.da6121bd-artifact-ubuntu-24.04-arm64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-ubuntu-24.04-arm64.zip.sha256sum) | 128 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/flameshot) 上共有 **150** 个发行版报告此项目。**44** 个 ✅ 已是最新上游版本，**96** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `14.0.0` | ✅ latest |
+| Debian 14 | `14.0.0` | ✅ latest |
+| Debian 13 | `12.1.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `13.3.0+git20251204` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `12.1.0` | ⚠️ outdated |
+| Arch | `14.0.0` | ✅ latest |
+| Fedora rawhide | `14.0.0` | ✅ latest |
+| Nix unstable | `14.0.0` | ✅ latest |
+| Void | `13.3.0` | ⚠️ outdated |
+| Alpine edge | `14.0.0` | ✅ latest |
+| openSUSE Tumbleweed | `14.0.0` | ✅ latest |
+
 ## 改进这些数据
 
 flameshot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `flameshot` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -111,4 +129,4 @@ flameshot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:08:09Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:06:11Z._
