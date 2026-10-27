@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v15.0.rc1` (2026-06-19)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-26
 - **Assets in release**: 32
 
 ## Popularity
 
-- **Stars**: 31,326 · **Forks**: 2,078 · **Open issues**: 3,197 · **Contributors**: 362
+- **Stars**: 31,334 · **Forks**: 2,079 · **Open issues**: 3,197 · **Contributors**: 362
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1172 · **Open PRs**: 69 · **Closed issues**: 2527 · **Open issues**: 670 · **Commits**: 2388
+- **Releases**: 36 · **Merged PRs**: 1173 · **Open PRs**: 69 · **Closed issues**: 2528 · **Open issues**: 669 · **Commits**: 2389
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 12 | 13 | 6 | 8 | 17 |
-| last60d | 2026-08-27 | 1 | 29 | 21 | 18 | 20 | 27 |
-| 90d | 2026-07-28 | 1 | 44 | 34 | 25 | 37 | 44 |
-| last180d | 2026-04-29 | 3 | 90 | 42 | 91 | 71 | 93 |
-| 360d | 2025-10-31 | 4 | 173 | 48 | 227 | 108 | 174 |
-| last720d | 2024-11-05 | 11 | 331 | 51 | 502 | 183 | 436 |
+| 30d | 2026-09-27 | 0 | 13 | 11 | 7 | 7 | 18 |
+| last60d | 2026-08-28 | 1 | 29 | 21 | 18 | 18 | 28 |
+| 90d | 2026-07-29 | 1 | 44 | 34 | 26 | 36 | 45 |
+| last180d | 2026-04-30 | 3 | 91 | 42 | 92 | 70 | 94 |
+| 360d | 2025-11-01 | 4 | 174 | 48 | 228 | 107 | 175 |
+| last720d | 2024-11-06 | 11 | 332 | 51 | 502 | 182 | 437 |
 
 ## Release assets
 
@@ -129,4 +129,4 @@ Install metadata for flameshot lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:03:14Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:27:29Z._
