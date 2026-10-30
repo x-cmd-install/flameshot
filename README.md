@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,352 · **Forks**: 2,086 · **Open issues**: 3,198 · **Contributors**: 362
+- **Stars**: 31,365 · **Forks**: 2,085 · **Open issues**: 3,198 · **Contributors**: 362
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 13 | 13 | 6 | 8 | 18 |
-| last60d | 2026-08-30 | 1 | 28 | 24 | 18 | 18 | 28 |
-| 90d | 2026-07-31 | 1 | 44 | 37 | 26 | 34 | 45 |
-| last180d | 2026-05-02 | 3 | 91 | 45 | 92 | 71 | 94 |
-| 360d | 2025-11-03 | 4 | 173 | 51 | 224 | 107 | 175 |
-| last720d | 2024-11-08 | 11 | 332 | 54 | 501 | 183 | 437 |
+| 30d | 2026-09-30 | 0 | 13 | 13 | 6 | 8 | 18 |
+| last60d | 2026-08-31 | 1 | 27 | 24 | 17 | 18 | 28 |
+| 90d | 2026-08-01 | 1 | 44 | 37 | 26 | 34 | 45 |
+| last180d | 2026-05-03 | 3 | 91 | 45 | 91 | 71 | 94 |
+| 360d | 2025-11-04 | 4 | 172 | 51 | 222 | 107 | 175 |
+| last720d | 2024-11-09 | 11 | 332 | 54 | 501 | 183 | 437 |
 
 ## Release assets
 
@@ -129,4 +129,4 @@ Install metadata for flameshot lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:15:26Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:07:51Z._
