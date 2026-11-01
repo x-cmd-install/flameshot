@@ -14,12 +14,12 @@ x install flameshot
 
 ## Code insight
 
-Total: **184,135** lines of code across **388** files in the top 5 languages.
+Total: **184,143** lines of code across **388** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 161,053 | 0 | 0 | 49 |
-| Cpp | 16,572 | 1,246 | 2,463 | 113 |
+| Cpp | 16,580 | 1,253 | 2,463 | 113 |
 | CHeader | 3,651 | 459 | 1,021 | 112 |
 | CMake | 1,008 | 79 | 160 | 15 |
 | Svg | 671 | 6 | 0 | 99 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v15.0.rc1` (2026-06-19)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-10-31
 - **Assets in release**: 32
 
 ## Popularity
 
-- **Stars**: 31,373 · **Forks**: 2,086 · **Open issues**: 3,198 · **Contributors**: 362
+- **Stars**: 31,380 · **Forks**: 2,089 · **Open issues**: 3,198 · **Contributors**: 363
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1174 · **Open PRs**: 71 · **Closed issues**: 2528 · **Open issues**: 670 · **Commits**: 2390
+- **Releases**: 36 · **Merged PRs**: 1176 · **Open PRs**: 70 · **Closed issues**: 2528 · **Open issues**: 670 · **Commits**: 2392
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 14 | 13 | 6 | 7 | 19 |
-| last60d | 2026-09-01 | 1 | 27 | 24 | 17 | 17 | 29 |
-| 90d | 2026-08-02 | 1 | 44 | 37 | 26 | 34 | 46 |
-| last180d | 2026-05-04 | 3 | 92 | 44 | 89 | 71 | 95 |
-| 360d | 2025-11-05 | 4 | 173 | 50 | 218 | 107 | 176 |
-| last720d | 2024-11-10 | 11 | 333 | 53 | 501 | 182 | 438 |
+| 30d | 2026-10-02 | 0 | 11 | 11 | 6 | 6 | 21 |
+| last60d | 2026-09-02 | 1 | 28 | 24 | 15 | 15 | 31 |
+| 90d | 2026-08-03 | 1 | 46 | 36 | 26 | 34 | 48 |
+| last180d | 2026-05-05 | 3 | 94 | 43 | 89 | 71 | 97 |
+| 360d | 2025-11-06 | 4 | 174 | 49 | 218 | 107 | 178 |
+| last720d | 2024-11-11 | 11 | 335 | 52 | 501 | 182 | 439 |
 
 ## Release assets
 
@@ -129,4 +129,4 @@ Install metadata for flameshot lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:07:14Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:28:36Z._
