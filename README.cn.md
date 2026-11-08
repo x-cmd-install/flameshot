@@ -42,69 +42,69 @@ x install flameshot
 
 ## 发布
 
-- **最新版本**: `v15.0.rc1` (2026-06-19)
+- **最新版本**: `v15.0.0` (2026-11-07)
 - **最近提交**: 2026-11-06
 - **Release 含资产**: 32 个
 
 ## 流行度
 
-- **Star**: 31,441 · **Fork**: 2,095 · **开放 issue**: 3,200 · **贡献者**: 363
+- **Star**: 31,448 · **Fork**: 2,094 · **开放 issue**: 3,201 · **贡献者**: 363
 
 ## 累计统计
 
-- **发布数**: 36 · **已合并 PR**: 1179 · **开放 PR**: 74 · **已关闭 issue**: 2531 · **开放 issue**: 669 · **提交数**: 2395
+- **发布数**: 37 · **已合并 PR**: 1179 · **开放 PR**: 74 · **已关闭 issue**: 2533 · **开放 issue**: 668 · **提交数**: 2395
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 11 | 16 | 5 | 7 | 22 |
-| last60d | 2026-09-08 | 1 | 26 | 28 | 10 | 17 | 30 |
-| 90d | 2026-08-09 | 1 | 46 | 39 | 24 | 35 | 48 |
-| last180d | 2026-05-11 | 3 | 93 | 45 | 89 | 70 | 97 |
-| 360d | 2025-11-12 | 4 | 172 | 53 | 211 | 106 | 178 |
-| last720d | 2024-11-17 | 11 | 338 | 56 | 501 | 178 | 442 |
+| 30d | 2026-10-09 | 1 | 11 | 15 | 6 | 7 | 22 |
+| last60d | 2026-09-09 | 2 | 26 | 28 | 10 | 17 | 30 |
+| 90d | 2026-08-10 | 2 | 46 | 39 | 24 | 34 | 48 |
+| last180d | 2026-05-12 | 4 | 93 | 44 | 89 | 70 | 97 |
+| 360d | 2025-11-13 | 5 | 172 | 53 | 210 | 105 | 178 |
+| last720d | 2024-11-18 | 12 | 338 | 56 | 503 | 177 | 442 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [Flameshot-14.0-macos-arm64.dmg](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0-macos-arm64.dmg) | 38.5 MiB | `native/darwin/arm64` |
-| [Flameshot-14.0-macos-arm64.dmg.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0-macos-arm64.dmg.sha256sum) | 97 B | `native/darwin/arm64` |
-| [Flameshot-14.0-macos-intel.dmg](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0-macos-intel.dmg) | 38.5 MiB | `native/darwin/x64` |
-| [Flameshot-14.0-macos-intel.dmg.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0-macos-intel.dmg.sha256sum) | 97 B | `native/darwin/x64` |
-| [Flameshot-14.0.0-win64.msi](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0.0-win64.msi) | 18.1 MiB | `native/win/x64` |
-| [Flameshot-14.0.0-win64.msi.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/Flameshot-14.0.0-win64.msi.sha256sum) | 93 B | `native/win/x64` |
-| [flameshot-14.0.0-win64.zip](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-14.0.0-win64.zip) | 53.0 MiB | `native/win/x64` |
-| [flameshot-14.0.0-win64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-14.0.0-win64.zip.sha256sum) | 93 B | `native/win/x64` |
-| [flameshot-v14.0+git0.da6121bd-artifact-appimage-x86_64.zip](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-appimage-x86_64.zip) | 54.8 MiB | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-appimage-x86_64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-appimage-x86_64.zip.sha256sum) | 125 B | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-debian-12-amd64.zip](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-debian-12-amd64.zip) | 799.9 KiB | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-debian-12-amd64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-debian-12-amd64.zip.sha256sum) | 125 B | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-debian-12-arm64.zip](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-debian-12-arm64.zip) | 747.7 KiB | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-debian-12-arm64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-debian-12-arm64.zip.sha256sum) | 125 B | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-debian-12-armhf.zip](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-debian-12-armhf.zip) | 718.3 KiB | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-debian-12-armhf.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-debian-12-armhf.zip.sha256sum) | 125 B | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-fedora-41-x86_64.zip](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-fedora-41-x86_64.zip) | 772.5 KiB | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-fedora-41-x86_64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-fedora-41-x86_64.zip.sha256sum) | 126 B | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-fedora-42-x86_64.zip](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-fedora-42-x86_64.zip) | 778.0 KiB | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-fedora-42-x86_64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-fedora-42-x86_64.zip.sha256sum) | 126 B | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-flatpak-x86_64.zip](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-flatpak-x86_64.zip) | 1.5 MiB | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-flatpak-x86_64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-flatpak-x86_64.zip.sha256sum) | 124 B | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-snap-x86_64.zip](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-snap-x86_64.zip) | 38.6 MiB | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-snap-x86_64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-snap-x86_64.zip.sha256sum) | 121 B | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-ubuntu-22.04-amd64.zip](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-ubuntu-22.04-amd64.zip) | 749.9 KiB | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-ubuntu-22.04-amd64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-ubuntu-22.04-amd64.zip.sha256sum) | 128 B | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-ubuntu-22.04-arm64.zip](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-ubuntu-22.04-arm64.zip) | 721.7 KiB | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-ubuntu-22.04-arm64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-ubuntu-22.04-arm64.zip.sha256sum) | 128 B | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-ubuntu-24.04-amd64.zip](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-ubuntu-24.04-amd64.zip) | 734.7 KiB | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-ubuntu-24.04-amd64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-ubuntu-24.04-amd64.zip.sha256sum) | 128 B | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-ubuntu-24.04-arm64.zip](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-ubuntu-24.04-arm64.zip) | 714.6 KiB | `other` |
-| [flameshot-v14.0+git0.da6121bd-artifact-ubuntu-24.04-arm64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-v14.0+git0.da6121bd-artifact-ubuntu-24.04-arm64.zip.sha256sum) | 128 B | `other` |
+| [Flameshot-15.0.0-macos-arm64.dmg](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/Flameshot-15.0.0-macos-arm64.dmg) | 37.2 MiB | `native/darwin/arm64` |
+| [Flameshot-15.0.0-macos-arm64.dmg.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/Flameshot-15.0.0-macos-arm64.dmg.sha256sum) | 99 B | `native/darwin/arm64` |
+| [Flameshot-15.0.0-macos-intel.dmg](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/Flameshot-15.0.0-macos-intel.dmg) | 41.5 MiB | `native/darwin/x64` |
+| [Flameshot-15.0.0-macos-intel.dmg.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/Flameshot-15.0.0-macos-intel.dmg.sha256sum) | 99 B | `native/darwin/x64` |
+| [Flameshot-15.0.0-win64.msi](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/Flameshot-15.0.0-win64.msi) | 18.2 MiB | `native/win/x64` |
+| [Flameshot-15.0.0-win64.msi.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/Flameshot-15.0.0-win64.msi.sha256sum) | 93 B | `native/win/x64` |
+| [flameshot-15.0.0-win64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-15.0.0-win64.zip) | 53.1 MiB | `native/win/x64` |
+| [flameshot-15.0.0-win64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-15.0.0-win64.zip.sha256sum) | 93 B | `native/win/x64` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-appimage-x86_64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-appimage-x86_64.zip) | 55.0 MiB | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-appimage-x86_64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-appimage-x86_64.zip.sha256sum) | 126 B | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-debian-13-amd64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-debian-13-amd64.zip) | 849.5 KiB | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-debian-13-amd64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-debian-13-amd64.zip.sha256sum) | 126 B | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-debian-13-arm64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-debian-13-arm64.zip) | 791.9 KiB | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-debian-13-arm64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-debian-13-arm64.zip.sha256sum) | 126 B | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-debian-13-armhf.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-debian-13-armhf.zip) | 771.0 KiB | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-debian-13-armhf.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-debian-13-armhf.zip.sha256sum) | 126 B | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-fedora-43-x86_64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-fedora-43-x86_64.zip) | 810.5 KiB | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-fedora-43-x86_64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-fedora-43-x86_64.zip.sha256sum) | 127 B | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-fedora-44-x86_64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-fedora-44-x86_64.zip) | 816.5 KiB | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-fedora-44-x86_64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-fedora-44-x86_64.zip.sha256sum) | 127 B | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-flatpak-x86_64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-flatpak-x86_64.zip) | 1.6 MiB | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-flatpak-x86_64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-flatpak-x86_64.zip.sha256sum) | 125 B | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-snap-x86_64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-snap-x86_64.zip) | 39.1 MiB | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-snap-x86_64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-snap-x86_64.zip.sha256sum) | 122 B | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-24.04-amd64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-24.04-amd64.zip) | 767.3 KiB | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-24.04-amd64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-24.04-amd64.zip.sha256sum) | 129 B | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-24.04-arm64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-24.04-arm64.zip) | 747.1 KiB | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-24.04-arm64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-24.04-arm64.zip.sha256sum) | 129 B | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-amd64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-amd64.zip) | 777.1 KiB | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-amd64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-amd64.zip.sha256sum) | 129 B | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip) | 750.3 KiB | `other` |
+| [flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip.sha256sum) | 129 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/flameshot) 上共有 **152** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**136** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/flameshot) 上共有 **152** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**132** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -129,4 +129,4 @@ flameshot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T06:20:31Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T06:21:29Z._
