@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,466 · **Forks**: 2,095 · **Open issues**: 3,201 · **Contributors**: 363
+- **Stars**: 31,483 · **Forks**: 2,095 · **Open issues**: 3,202 · **Contributors**: 363
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 1179 · **Open PRs**: 74 · **Closed issues**: 2533 · **Open issues**: 668 · **Commits**: 2395
+- **Releases**: 37 · **Merged PRs**: 1179 · **Open PRs**: 78 · **Closed issues**: 2533 · **Open issues**: 669 · **Commits**: 2395
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 11 | 16 | 6 | 7 | 15 |
-| last60d | 2026-09-10 | 2 | 24 | 27 | 10 | 17 | 26 |
-| 90d | 2026-08-11 | 2 | 46 | 39 | 24 | 34 | 46 |
-| last180d | 2026-05-13 | 4 | 93 | 44 | 88 | 69 | 96 |
-| 360d | 2025-11-14 | 5 | 171 | 53 | 210 | 105 | 170 |
-| last720d | 2024-11-19 | 12 | 337 | 56 | 503 | 177 | 442 |
+| 30d | 2026-10-11 | 1 | 10 | 19 | 5 | 8 | 15 |
+| last60d | 2026-09-11 | 2 | 24 | 31 | 10 | 17 | 26 |
+| 90d | 2026-08-12 | 2 | 45 | 42 | 24 | 34 | 46 |
+| last180d | 2026-05-14 | 4 | 93 | 48 | 88 | 70 | 96 |
+| 360d | 2025-11-15 | 5 | 171 | 57 | 210 | 106 | 170 |
+| last720d | 2024-11-20 | 12 | 337 | 60 | 502 | 177 | 442 |
 
 ## Release assets
 
@@ -104,7 +104,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **152** distros on [repology.org](https://repology.org/project/flameshot). **15** are ✅ on the latest upstream release, **128** are ⚠️ on an older version.
+Reported by **152** distros on [repology.org](https://repology.org/project/flameshot). **18** are ✅ on the latest upstream release, **125** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -118,7 +118,7 @@ Reported by **152** distros on [repology.org](https://repology.org/project/flame
 | Nix unstable | `14.0.0` | ⚠️ outdated |
 | Void | `13.3.0` | ⚠️ outdated |
 | Alpine edge | `14.0.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `14.0.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `15.0.0` | ✅ latest |
 
 ## Improve this data
 
@@ -129,4 +129,4 @@ Install metadata for flameshot lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:55:36Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:45:20Z._
