@@ -1,63 +1,3 @@
-- repo: raspbian_stable
-  subrepo: main
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 12.1.0
-  origversion: 12.1.0+ds-2
-  status: outdated
-  maintainers:
-    - polverari@debian.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 14.0.0
-  origversion: 14.0.0-4
-  status: outdated
-  maintainers:
-    - hyperair@debian.org
-  categories:
-    - misc
-- repo: starkos
-  subrepo: main
-  srcname: flameshot
-  visiblename: flameshot
-  version: 15.0.0
-  origversion: 15.0.0-1
-  status: newest
-  summary: flameshot
-  maintainers:
-    - starkos@disroot.org
-- repo: deepin_25
-  subrepo: community
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 12.1.0
-  origversion: 12.1.0-3
-  status: outdated
-  maintainers:
-    - packages@qa.debian.org
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 0.9.0
-  origversion: 0.9.0+ds1-2+deb11u2
-  status: outdated
-  maintainers:
-    - byang@debian.org
-  categories:
-    - misc
 - repo: devuan_unstable
   subrepo: unstable/main
   srcname: flameshot
@@ -71,194 +11,6 @@
     - hyperair@debian.org
   categories:
     - misc
-- repo: pld
-  srcname: flameshot
-  visiblename: flameshot
-  version: 14.0.0
-  origversion: 14.0.0-2
-  status: outdated
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 0.6.0
-  origversion: 0.6.0-11
-  status: outdated
-  maintainers:
-    - byang@debian.org
-  categories:
-    - graphics
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 0.9.0
-  origversion: 0.9.0+ds1-2+deb11u2
-  status: outdated
-  maintainers:
-    - byang@debian.org
-  categories:
-    - graphics
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 12.1.0
-  origversion: 12.1.0+ds-2
-  status: outdated
-  maintainers:
-    - polverari@debian.org
-  categories:
-    - graphics
-- repo: alpine_3_20
-  subrepo: community
-  srcname: flameshot
-  binname: flameshot
-  visiblename: flameshot
-  version: 12.1.0
-  origversion: 12.1.0-r3
-  status: outdated
-  summary: Featureful screenshot app
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: flameshot
-  binname: flameshot-bash-completion
-  visiblename: flameshot-bash-completion
-  version: 12.1.0
-  origversion: 12.1.0-r3
-  status: outdated
-  summary: Bash completions for flameshot
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: flameshot
-  binname: flameshot-doc
-  visiblename: flameshot-doc
-  version: 12.1.0
-  origversion: 12.1.0-r3
-  status: outdated
-  summary: Featureful screenshot app (documentation)
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: flameshot
-  binname: flameshot-fish-completion
-  visiblename: flameshot-fish-completion
-  version: 12.1.0
-  origversion: 12.1.0-r3
-  status: outdated
-  summary: Fish completions for flameshot
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: flameshot
-  binname: flameshot-lang
-  visiblename: flameshot-lang
-  version: 12.1.0
-  origversion: 12.1.0-r3
-  status: outdated
-  summary: Languages for package flameshot
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: flameshot
-  binname: flameshot-zsh-completion
-  visiblename: flameshot-zsh-completion
-  version: 12.1.0
-  origversion: 12.1.0-r3
-  status: outdated
-  summary: Zsh completions for flameshot
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: flameshot
-  binname: flameshot
-  visiblename: flameshot
-  version: 12.1.0
-  origversion: 12.1.0-r3
-  status: outdated
-  summary: Featureful screenshot app
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: flameshot
-  binname: flameshot-bash-completion
-  visiblename: flameshot-bash-completion
-  version: 12.1.0
-  origversion: 12.1.0-r3
-  status: outdated
-  summary: Bash completions for flameshot
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: flameshot
-  binname: flameshot-doc
-  visiblename: flameshot-doc
-  version: 12.1.0
-  origversion: 12.1.0-r3
-  status: outdated
-  summary: Featureful screenshot app (documentation)
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: flameshot
-  binname: flameshot-fish-completion
-  visiblename: flameshot-fish-completion
-  version: 12.1.0
-  origversion: 12.1.0-r3
-  status: outdated
-  summary: Fish completions for flameshot
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: flameshot
-  binname: flameshot-lang
-  visiblename: flameshot-lang
-  version: 12.1.0
-  origversion: 12.1.0-r3
-  status: outdated
-  summary: Languages for package flameshot
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - GPL-3.0-or-later
 - repo: aur
   srcname: flameshot-git
   binname: flameshot-git
@@ -272,6 +24,165 @@
     - borgman_jeremy@aur
   licenses:
     - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: flameshot
+  binname: flameshot
+  visiblename: flameshot
+  version: 12.1.0
+  origversion: 12.1.0-r3
+  status: outdated
+  summary: Featureful screenshot app
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: flameshot
+  binname: flameshot-bash-completion
+  visiblename: flameshot-bash-completion
+  version: 12.1.0
+  origversion: 12.1.0-r3
+  status: outdated
+  summary: Bash completions for flameshot
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: flameshot
+  binname: flameshot-doc
+  visiblename: flameshot-doc
+  version: 12.1.0
+  origversion: 12.1.0-r3
+  status: outdated
+  summary: Featureful screenshot app (documentation)
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: flameshot
+  binname: flameshot-fish-completion
+  visiblename: flameshot-fish-completion
+  version: 12.1.0
+  origversion: 12.1.0-r3
+  status: outdated
+  summary: Fish completions for flameshot
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: flameshot
+  binname: flameshot-lang
+  visiblename: flameshot-lang
+  version: 12.1.0
+  origversion: 12.1.0-r3
+  status: outdated
+  summary: Languages for package flameshot
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: flameshot
+  binname: flameshot-zsh-completion
+  visiblename: flameshot-zsh-completion
+  version: 12.1.0
+  origversion: 12.1.0-r3
+  status: outdated
+  summary: Zsh completions for flameshot
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: flameshot
+  binname: flameshot
+  visiblename: flameshot
+  version: 12.1.0
+  origversion: 12.1.0-r3
+  status: outdated
+  summary: Featureful screenshot app
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: flameshot
+  binname: flameshot-bash-completion
+  visiblename: flameshot-bash-completion
+  version: 12.1.0
+  origversion: 12.1.0-r3
+  status: outdated
+  summary: Bash completions for flameshot
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: flameshot
+  binname: flameshot-doc
+  visiblename: flameshot-doc
+  version: 12.1.0
+  origversion: 12.1.0-r3
+  status: outdated
+  summary: Featureful screenshot app (documentation)
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: altsisyphus
+  srcname: flameshot
+  binnames:
+    - flameshot
+    - flameshot-debuginfo
+  visiblename: flameshot
+  version: 14.0-rc1
+  origversion: 14.0-alt0.rc1
+  status: outdated
+  summary: Powerful yet simple to use screenshot software
+  maintainers:
+    - x09@altlinux.org
+  licenses:
+    - GPLv3
+  categories:
+    - Graphics
+- repo: alpine_3_21
+  subrepo: community
+  srcname: flameshot
+  binname: flameshot-fish-completion
+  visiblename: flameshot-fish-completion
+  version: 12.1.0
+  origversion: 12.1.0-r3
+  status: outdated
+  summary: Fish completions for flameshot
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: flameshot
+  binname: flameshot-lang
+  visiblename: flameshot-lang
+  version: 12.1.0
+  origversion: 12.1.0-r3
+  status: outdated
+  summary: Languages for package flameshot
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - GPL-3.0-or-later
 - repo: alpine_3_21
   subrepo: community
   srcname: flameshot
@@ -363,6 +274,18 @@
     - kdaudt@alpinelinux.org
   licenses:
     - GPL-3.0-or-later
+- repo: aosc
+  srcname: app-utils/flameshot
+  binname: flameshot
+  visiblename: flameshot
+  version: 15.0.0
+  origversion: null
+  status: newest
+  summary: Powerful yet simple to use screenshot software
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
 - repo: alpine_3_23
   subrepo: community
   srcname: flameshot
@@ -387,17 +310,6 @@
   summary: Bash completions for flameshot
   maintainers:
     - kdaudt@alpinelinux.org
-  licenses:
-    - GPL-3.0-or-later
-- repo: artix
-  subrepo: world
-  srcname: flameshot
-  binname: flameshot
-  visiblename: flameshot
-  version: 14.0.0
-  origversion: 14.0.0-1
-  status: outdated
-  summary: Powerful yet simple to use screenshot software
   licenses:
     - GPL-3.0-or-later
 - repo: alpine_3_23
@@ -491,6 +403,17 @@
     - kdaudt@alpinelinux.org
   licenses:
     - GPL-3.0-or-later
+- repo: arch
+  subrepo: extra
+  srcname: flameshot
+  binname: flameshot
+  visiblename: flameshot
+  version: 15.0.0
+  origversion: 15.0.0-1
+  status: newest
+  summary: Powerful yet simple to use screenshot software
+  licenses:
+    - GPL-3.0-or-later
 - repo: alpine_3_24
   subrepo: community
   srcname: flameshot
@@ -517,17 +440,6 @@
     - kdaudt@alpinelinux.org
   licenses:
     - GPL-3.0-or-later
-- repo: chimera
-  subrepo: user
-  srcname: flameshot
-  binname: flameshot
-  visiblename: flameshot
-  version: 14.0.0
-  origversion: 14.0.0-r0
-  status: outdated
-  summary: Powerful screenshot software
-  licenses:
-    - GPL-3.0-or-later AND LGPL-3.0-or-later
 - repo: alpine_3_24
   subrepo: community
   srcname: flameshot
@@ -635,45 +547,28 @@
     - GPLv3
   categories:
     - Graphics
-- repo: altsisyphus
+- repo: artix
+  subrepo: world
   srcname: flameshot
-  binnames:
-    - flameshot
-    - flameshot-debuginfo
+  binname: flameshot
   visiblename: flameshot
-  version: 14.0-rc1
-  origversion: 14.0-alt0.rc1
+  version: 14.0.0
+  origversion: 14.0.0-1
   status: outdated
-  summary: Powerful yet simple to use screenshot software
-  maintainers:
-    - x09@altlinux.org
-  licenses:
-    - GPLv3
-  categories:
-    - Graphics
-- repo: aosc
-  srcname: app-utils/flameshot
-  binname: flameshot
-  visiblename: flameshot
-  version: 15.0.0
-  origversion: null
-  status: newest
-  summary: Powerful yet simple to use screenshot software
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - utils
-- repo: arch
-  subrepo: extra
-  srcname: flameshot
-  binname: flameshot
-  visiblename: flameshot
-  version: 15.0.0
-  origversion: 15.0.0-1
-  status: newest
   summary: Powerful yet simple to use screenshot software
   licenses:
     - GPL-3.0-or-later
+- repo: chimera
+  subrepo: user
+  srcname: flameshot
+  binname: flameshot
+  visiblename: flameshot
+  version: 14.0.0
+  origversion: 14.0.0-r0
+  status: outdated
+  summary: Powerful screenshot software
+  licenses:
+    - GPL-3.0-or-later AND LGPL-3.0-or-later
 - repo: chimera
   subrepo: user
   srcname: flameshot
@@ -838,6 +733,30 @@
     - packages@qa.debian.org
   categories:
     - graphics
+- repo: deepin_25
+  subrepo: community
+  srcname: flameshot
+  binnames:
+    - flameshot
+  visiblename: flameshot
+  version: 12.1.0
+  origversion: 12.1.0-3
+  status: outdated
+  maintainers:
+    - packages@qa.debian.org
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: flameshot
+  binnames:
+    - flameshot
+  visiblename: flameshot
+  version: 0.9.0
+  origversion: 0.9.0+ds1-2+deb11u2
+  status: outdated
+  maintainers:
+    - byang@debian.org
+  categories:
+    - misc
 - repo: exherbo
   subrepo: platypus
   srcname: x11-apps/flameshot
@@ -1229,6 +1148,19 @@
   summary: Powerful yet simple to use screenshot software
   licenses:
     - GPL-3.0-or-later
+- repo: openkylin_2_0_bedrock
+  subrepo: nile.bedrock/main
+  srcname: flameshot
+  binnames:
+    - flameshot
+  visiblename: flameshot
+  version: 12.1.0+git76f8067
+  origversion: 12.1.0+git76f8067-ok1
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+  categories:
+    - graphics
 - repo: msys2_clang64
   srcname: mingw-w64-flameshot
   binname: mingw-w64-clang-x86_64-flameshot
@@ -1276,26 +1208,13 @@
   binnames:
     - flameshot
   visiblename: flameshot
-  version: 14.0.0
-  origversion: 14.0.0-0.1mx25
-  status: outdated
+  version: 15.0.0
+  origversion: 15.0.0-0.1mx25
+  status: newest
   maintainers:
     - stevep@mxlinux.org
   categories:
     - graphics
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 12.1.0
-  origversion: 12.1.0-2
-  status: outdated
-  maintainers:
-    - byang@debian.org
-  categories:
-    - misc
 - repo: nix_stable_24_05
   srcname: flameshot
   visiblename: flameshot
@@ -1396,19 +1315,15 @@
     - packaging@lists.openkylin.top
   categories:
     - graphics
-- repo: openkylin_2_0_bedrock
-  subrepo: nile.bedrock/main
+- repo: pclinuxos
   srcname: flameshot
-  binnames:
-    - flameshot
   visiblename: flameshot
-  version: 12.1.0+git76f8067
-  origversion: 12.1.0+git76f8067-ok1
+  version: 14.0.0
+  origversion: 14.0.0-3pclos2026
   status: outdated
-  maintainers:
-    - packaging@lists.openkylin.top
+  summary: Powerful and simple to use screenshot software
   categories:
-    - graphics
+    - Graphics/Utilities
 - repo: openkylin_2_0_bedrock
   subrepo: nile.bedrock-proposed/main
   srcname: flameshot
@@ -1448,24 +1363,6 @@
     - packaging@lists.openkylin.top
   categories:
     - graphics
-- repo: solus
-  srcname: flameshot
-  binname: flameshot-dbginfo
-  visiblename: flameshot-dbginfo
-  version: 15.0.0
-  origversion: null
-  status: newest
-  summary: Debug symbols for flameshot
-  maintainers:
-    - maddock.evan@vivaldi.net
-  licenses:
-    - Apache-2.0
-    - GPL-2.0-or-later
-    - GPL-3.0-or-later
-    - LAL-1.3
-    - LGPL-3.0-or-later
-  categories:
-    - debug
 - repo: openmandriva_6_0
   subrepo: main/release
   srcname: flameshot
@@ -1484,18 +1381,6 @@
     - GPLv3
   categories:
     - Graphics
-- repo: pkgsrc_current
-  srcname: graphics/flameshot
-  binname: flameshot
-  visiblename: graphics/flameshot
-  version: 13.3.0
-  origversion: 13.3.0nb5
-  status: outdated
-  summary: Powerful yet simple to use screenshot software
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - graphics
 - repo: openmandriva_rolling
   subrepo: main/release
   srcname: flameshot
@@ -1636,19 +1521,6 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 12.1.0
-  origversion: 12.1.0+ds-2
-  status: outdated
-  maintainers:
-    - polverari@debian.org
-  categories:
-    - misc
-- repo: parrot
   subrepo: parrot-updates/main
   srcname: flameshot
   binnames:
@@ -1661,15 +1533,19 @@
     - polverari@debian.org
   categories:
     - misc
-- repo: pclinuxos
+- repo: parrot
+  subrepo: parrot/main
   srcname: flameshot
+  binnames:
+    - flameshot
   visiblename: flameshot
-  version: 14.0.0
-  origversion: 14.0.0-3pclos2026
+  version: 12.1.0
+  origversion: 12.1.0+ds-2
   status: outdated
-  summary: Powerful and simple to use screenshot software
+  maintainers:
+    - polverari@debian.org
   categories:
-    - Graphics/Utilities
+    - misc
 - repo: pisi_main
   subrepo: main
   srcname: multimedia/graphics/flameshot
@@ -1708,6 +1584,102 @@
     - pkgsrc-users@netbsd.org
   categories:
     - graphics
+- repo: pkgsrc_current
+  srcname: graphics/flameshot
+  binname: flameshot
+  visiblename: graphics/flameshot
+  version: 13.3.0
+  origversion: 13.3.0nb5
+  status: outdated
+  summary: Powerful yet simple to use screenshot software
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - graphics
+- repo: pld
+  srcname: flameshot
+  visiblename: flameshot
+  version: 14.0.0
+  origversion: 14.0.0-2
+  status: outdated
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: flameshot
+  binnames:
+    - flameshot
+  visiblename: flameshot
+  version: 0.6.0
+  origversion: 0.6.0-11
+  status: outdated
+  maintainers:
+    - byang@debian.org
+  categories:
+    - graphics
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: flameshot
+  binnames:
+    - flameshot
+  visiblename: flameshot
+  version: 0.9.0
+  origversion: 0.9.0+ds1-2+deb11u2
+  status: outdated
+  maintainers:
+    - byang@debian.org
+  categories:
+    - graphics
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: flameshot
+  binnames:
+    - flameshot
+  visiblename: flameshot
+  version: 12.1.0
+  origversion: 12.1.0+ds-2
+  status: outdated
+  maintainers:
+    - polverari@debian.org
+  categories:
+    - graphics
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: flameshot
+  binnames:
+    - flameshot
+  visiblename: flameshot
+  version: 12.1.0
+  origversion: 12.1.0-2
+  status: outdated
+  maintainers:
+    - byang@debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: flameshot
+  binnames:
+    - flameshot
+  visiblename: flameshot
+  version: 12.1.0
+  origversion: 12.1.0+ds-2
+  status: outdated
+  maintainers:
+    - polverari@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: flameshot
+  binnames:
+    - flameshot
+  visiblename: flameshot
+  version: 14.0.0
+  origversion: 14.0.0-4
+  status: outdated
+  maintainers:
+    - hyperair@debian.org
+  categories:
+    - misc
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: flameshot
@@ -1779,6 +1751,34 @@
     - LGPL-3.0-or-later
   categories:
     - multimedia.graphics
+- repo: solus
+  srcname: flameshot
+  binname: flameshot-dbginfo
+  visiblename: flameshot-dbginfo
+  version: 15.0.0
+  origversion: null
+  status: newest
+  summary: Debug symbols for flameshot
+  maintainers:
+    - maddock.evan@vivaldi.net
+  licenses:
+    - Apache-2.0
+    - GPL-2.0-or-later
+    - GPL-3.0-or-later
+    - LAL-1.3
+    - LGPL-3.0-or-later
+  categories:
+    - debug
+- repo: starkos
+  subrepo: main
+  srcname: flameshot
+  visiblename: flameshot
+  version: 15.0.0
+  origversion: 15.0.0-1
+  status: newest
+  summary: flameshot
+  maintainers:
+    - starkos@disroot.org
 - repo: t2
   srcname: flameshot
   visiblename: flameshot
