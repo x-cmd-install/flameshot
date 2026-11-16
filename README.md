@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,549 · **Forks**: 2,106 · **Open issues**: 3,206 · **Contributors**: 363
+- **Stars**: 31,558 · **Forks**: 2,109 · **Open issues**: 3,208 · **Contributors**: 363
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 1181 · **Open PRs**: 82 · **Closed issues**: 2539 · **Open issues**: 667 · **Commits**: 2397
+- **Releases**: 37 · **Merged PRs**: 1181 · **Open PRs**: 84 · **Closed issues**: 2539 · **Open issues**: 669 · **Commits**: 2397
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 11 | 21 | 6 | 9 | 17 |
-| last60d | 2026-09-16 | 2 | 23 | 35 | 10 | 17 | 28 |
-| 90d | 2026-08-17 | 2 | 45 | 43 | 24 | 36 | 48 |
-| last180d | 2026-05-19 | 4 | 95 | 51 | 90 | 69 | 98 |
-| 360d | 2025-11-20 | 5 | 173 | 61 | 206 | 105 | 172 |
-| last720d | 2024-11-25 | 12 | 338 | 64 | 506 | 177 | 444 |
+| 30d | 2026-10-17 | 1 | 10 | 23 | 5 | 11 | 11 |
+| last60d | 2026-09-17 | 2 | 22 | 36 | 10 | 19 | 26 |
+| 90d | 2026-08-18 | 2 | 42 | 45 | 24 | 35 | 43 |
+| last180d | 2026-05-20 | 4 | 94 | 53 | 88 | 71 | 97 |
+| 360d | 2025-11-21 | 5 | 172 | 63 | 206 | 107 | 170 |
+| last720d | 2024-11-26 | 12 | 338 | 66 | 506 | 179 | 444 |
 
 ## Release assets
 
@@ -104,7 +104,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **153** distros on [repology.org](https://repology.org/project/flameshot). **22** are ✅ on the latest upstream release, **121** are ⚠️ on an older version.
+Reported by **154** distros on [repology.org](https://repology.org/project/flameshot). **23** are ✅ on the latest upstream release, **120** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -129,4 +129,4 @@ Install metadata for flameshot lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:59:18Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:20:55Z._
