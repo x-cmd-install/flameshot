@@ -14,11 +14,11 @@ x install flameshot
 
 ## Code insight
 
-Total: **184,161** lines of code across **388** files in the top 5 languages.
+Total: **187,507** lines of code across **389** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 161,053 | 0 | 0 | 49 |
+| TypeScript | 164,399 | 0 | 0 | 50 |
 | Cpp | 16,597 | 1,260 | 2,465 | 113 |
 | CHeader | 3,651 | 459 | 1,021 | 112 |
 | CMake | 1,008 | 79 | 160 | 15 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v15.0.0` (2026-11-07)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-18
 - **Assets in release**: 32
 
 ## Popularity
 
-- **Stars**: 31,570 · **Forks**: 2,114 · **Open issues**: 3,208 · **Contributors**: 363
+- **Stars**: 31,587 · **Forks**: 2,121 · **Open issues**: 3,209 · **Contributors**: 364
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 1181 · **Open PRs**: 81 · **Closed issues**: 2539 · **Open issues**: 669 · **Commits**: 2397
+- **Releases**: 37 · **Merged PRs**: 1183 · **Open PRs**: 80 · **Closed issues**: 2540 · **Open issues**: 669 · **Commits**: 2399
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 10 | 19 | 5 | 10 | 11 |
-| last60d | 2026-09-18 | 2 | 22 | 33 | 10 | 19 | 26 |
-| 90d | 2026-08-19 | 2 | 41 | 39 | 24 | 35 | 43 |
-| last180d | 2026-05-21 | 4 | 93 | 50 | 87 | 70 | 97 |
-| 360d | 2025-11-22 | 5 | 172 | 60 | 206 | 107 | 170 |
-| last720d | 2024-11-27 | 12 | 338 | 63 | 506 | 179 | 444 |
+| 30d | 2026-10-20 | 1 | 11 | 17 | 5 | 10 | 13 |
+| last60d | 2026-09-20 | 1 | 22 | 31 | 10 | 16 | 28 |
+| 90d | 2026-08-21 | 2 | 41 | 36 | 23 | 31 | 45 |
+| last180d | 2026-05-23 | 4 | 94 | 49 | 87 | 69 | 99 |
+| 360d | 2025-11-24 | 5 | 174 | 58 | 204 | 106 | 172 |
+| last720d | 2024-11-29 | 12 | 340 | 62 | 505 | 178 | 446 |
 
 ## Release assets
 
@@ -104,7 +104,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **155** distros on [repology.org](https://repology.org/project/flameshot). **23** are ✅ on the latest upstream release, **121** are ⚠️ on an older version.
+Reported by **154** distros on [repology.org](https://repology.org/project/flameshot). **23** are ✅ on the latest upstream release, **120** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -129,4 +129,4 @@ Install metadata for flameshot lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:58:41Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:59:59Z._
