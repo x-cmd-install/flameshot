@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,599 · **Forks**: 2,122 · **Open issues**: 3,209 · **Contributors**: 364
+- **Stars**: 31,604 · **Forks**: 2,122 · **Open issues**: 3,209 · **Contributors**: 364
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 10 | 17 | 4 | 10 | 13 |
-| last60d | 2026-09-21 | 1 | 22 | 31 | 10 | 16 | 28 |
-| 90d | 2026-08-22 | 2 | 41 | 36 | 23 | 31 | 45 |
-| last180d | 2026-05-24 | 4 | 94 | 49 | 87 | 69 | 99 |
-| 360d | 2025-11-25 | 5 | 174 | 58 | 203 | 106 | 172 |
-| last720d | 2024-11-30 | 12 | 340 | 62 | 505 | 178 | 446 |
+| 30d | 2026-10-22 | 1 | 10 | 16 | 5 | 10 | 0 |
+| last60d | 2026-09-22 | 1 | 22 | 31 | 11 | 15 | 0 |
+| 90d | 2026-08-23 | 2 | 41 | 34 | 24 | 30 | 0 |
+| last180d | 2026-05-25 | 4 | 94 | 49 | 87 | 69 | 0 |
+| 360d | 2025-11-26 | 5 | 174 | 58 | 202 | 106 | 0 |
+| last720d | 2024-12-01 | 12 | 340 | 62 | 505 | 178 | 446 |
 
 ## Release assets
 
@@ -104,7 +104,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **154** distros on [repology.org](https://repology.org/project/flameshot). **23** are ✅ on the latest upstream release, **120** are ⚠️ on an older version.
+Reported by **153** distros on [repology.org](https://repology.org/project/flameshot). **24** are ✅ on the latest upstream release, **118** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -129,4 +129,4 @@ Install metadata for flameshot lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:11:29Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:18:24Z._
