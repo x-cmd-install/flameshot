@@ -1,9 +1,81 @@
-- repo: pld
+- repo: pureos_byzantium
+  subrepo: byzantium/main
   srcname: flameshot
+  binnames:
+    - flameshot
   visiblename: flameshot
-  version: 15.0.0
-  origversion: 15.0.0-1
-  status: newest
+  version: 0.9.0
+  origversion: 0.9.0+ds1-2+deb11u2
+  status: outdated
+  maintainers:
+    - byang@debian.org
+  categories:
+    - graphics
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: flameshot
+  binnames:
+    - flameshot
+  visiblename: flameshot
+  version: 12.1.0
+  origversion: 12.1.0+ds-2
+  status: outdated
+  maintainers:
+    - polverari@debian.org
+  categories:
+    - graphics
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: flameshot
+  binnames:
+    - flameshot
+  visiblename: flameshot
+  version: 12.1.0
+  origversion: 12.1.0-2
+  status: outdated
+  maintainers:
+    - byang@debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: flameshot
+  binnames:
+    - flameshot
+  visiblename: flameshot
+  version: 12.1.0
+  origversion: 12.1.0+ds-2
+  status: outdated
+  maintainers:
+    - polverari@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: flameshot
+  binnames:
+    - flameshot
+  visiblename: flameshot
+  version: 14.0.0
+  origversion: 14.0.0-4
+  status: outdated
+  maintainers:
+    - hyperair@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: flameshot
+  binnames:
+    - flameshot
+  visiblename: flameshot
+  version: 12.1.0
+  origversion: 12.1.0+ds-2
+  status: outdated
+  maintainers:
+    - polverari@debian.org
+  categories:
+    - misc
 - repo: alpine_3_20
   subrepo: community
   srcname: flameshot
@@ -82,6 +154,12 @@
     - kdaudt@alpinelinux.org
   licenses:
     - GPL-3.0-or-later
+- repo: pld
+  srcname: flameshot
+  visiblename: flameshot
+  version: 15.0.0
+  origversion: 15.0.0-1
+  status: newest
 - repo: alpine_3_21
   subrepo: community
   srcname: flameshot
@@ -796,18 +874,6 @@
     - GPL-3.0-or-later AND Apache-2.0 AND GPL-2.0-only AND LGPL-3.0-or-later AND (LGPL-3.0-only OR GPL-3.0-only) AND LAL-1.3
   categories:
     - Unspecified
-- repo: openbsd
-  srcname: graphics/flameshot
-  binname: flameshot
-  visiblename: graphics/flameshot
-  version: 13.1.0
-  origversion: null
-  status: outdated
-  summary: powerful yet simple to use screenshot software
-  maintainers:
-    - denis@openbsd.org
-  categories:
-    - graphics
 - repo: fedora_41
   subrepo: release
   srcname: flameshot
@@ -1169,9 +1235,9 @@
   srcname: flameshot
   binname: flameshot
   visiblename: flameshot
-  version: 14.0.0
-  origversion: 14.0.0-1
-  status: outdated
+  version: 15.0.0
+  origversion: 15.0.0-1
+  status: newest
   summary: Powerful yet simple to use screenshot software
   licenses:
     - GPL-3.0-or-later
@@ -1315,6 +1381,18 @@
     - d.mkhitaryan@mailbox.org
   licenses:
     - GPL-3.0-or-later
+- repo: openbsd
+  srcname: graphics/flameshot
+  binname: flameshot
+  visiblename: graphics/flameshot
+  version: 13.1.0
+  origversion: null
+  status: outdated
+  summary: powerful yet simple to use screenshot software
+  maintainers:
+    - denis@openbsd.org
+  categories:
+    - graphics
 - repo: openkylin_2_0
   subrepo: nile/main
   srcname: flameshot
@@ -1563,19 +1641,6 @@
     - polverari@debian.org
   categories:
     - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 12.1.0
-  origversion: 12.1.0+ds-2
-  status: outdated
-  maintainers:
-    - polverari@debian.org
-  categories:
-    - misc
 - repo: pclinuxos
   srcname: flameshot
   visiblename: flameshot
@@ -1635,71 +1700,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - graphics
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 0.9.0
-  origversion: 0.9.0+ds1-2+deb11u2
-  status: outdated
-  maintainers:
-    - byang@debian.org
-  categories:
-    - graphics
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 12.1.0
-  origversion: 12.1.0+ds-2
-  status: outdated
-  maintainers:
-    - polverari@debian.org
-  categories:
-    - graphics
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 12.1.0
-  origversion: 12.1.0-2
-  status: outdated
-  maintainers:
-    - byang@debian.org
-  categories:
-    - misc
-- repo: raspbian_stable
-  subrepo: main
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 12.1.0
-  origversion: 12.1.0+ds-2
-  status: outdated
-  maintainers:
-    - polverari@debian.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: flameshot
-  binnames:
-    - flameshot
-  visiblename: flameshot
-  version: 14.0.0
-  origversion: 14.0.0-4
-  status: outdated
-  maintainers:
-    - hyperair@debian.org
-  categories:
-    - misc
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: flameshot
