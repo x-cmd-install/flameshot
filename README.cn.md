@@ -48,22 +48,22 @@ x install flameshot
 
 ## 流行度
 
-- **Star**: 31,704 · **Fork**: 2,137 · **开放 issue**: 3,210 · **贡献者**: 363
+- **Star**: 31,712 · **Fork**: 2,138 · **开放 issue**: 3,212 · **贡献者**: 363
 
 ## 累计统计
 
-- **发布数**: 37 · **已合并 PR**: 1184 · **开放 PR**: 82 · **已关闭 issue**: 2540 · **开放 issue**: 670 · **提交数**: 2400
+- **发布数**: 37 · **已合并 PR**: 1184 · **开放 PR**: 83 · **已关闭 issue**: 2541 · **开放 issue**: 671 · **提交数**: 2400
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 10 | 19 | 3 | 10 | 11 |
-| last60d | 2026-09-25 | 1 | 23 | 31 | 11 | 16 | 29 |
-| 90d | 2026-08-26 | 2 | 40 | 36 | 23 | 28 | 40 |
-| last180d | 2026-05-28 | 4 | 94 | 51 | 86 | 69 | 96 |
-| 360d | 2025-11-29 | 5 | 172 | 60 | 201 | 107 | 168 |
-| last720d | 2024-12-04 | 12 | 341 | 64 | 504 | 179 | 446 |
+| 30d | 2026-10-26 | 1 | 9 | 20 | 3 | 11 | 11 |
+| last60d | 2026-09-26 | 1 | 23 | 30 | 11 | 17 | 29 |
+| 90d | 2026-08-27 | 2 | 40 | 37 | 23 | 29 | 40 |
+| last180d | 2026-05-29 | 4 | 93 | 52 | 86 | 70 | 96 |
+| 360d | 2025-11-30 | 5 | 172 | 61 | 199 | 108 | 168 |
+| last720d | 2024-12-05 | 12 | 341 | 65 | 504 | 179 | 446 |
 
 ## Release 资产
 
@@ -102,24 +102,6 @@ x install flameshot
 | [flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip) | 750.3 KiB | `other` |
 | [flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip.sha256sum) | 129 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/flameshot) 上共有 **153** 个发行版报告此项目。**25** 个 ✅ 已是最新上游版本，**117** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `14.0.0` | ⚠️ outdated |
-| Debian 14 | `14.0.0` | ⚠️ outdated |
-| Debian 13 | `12.1.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `13.3.0+git20251204` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `12.1.0` | ⚠️ outdated |
-| Arch | `15.0.0` | ✅ latest |
-| Fedora rawhide | `14.0.0` | ⚠️ outdated |
-| Nix unstable | `15.0.0` | ✅ latest |
-| Void | `13.3.0` | ⚠️ outdated |
-| Alpine edge | `14.0.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `15.0.0` | ✅ latest |
-
 ## 改进这些数据
 
 flameshot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `flameshot` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -129,4 +111,4 @@ flameshot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:37:02Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:05:47Z._
