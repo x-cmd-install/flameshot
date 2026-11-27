@@ -48,7 +48,7 @@ x install flameshot
 
 ## 流行度
 
-- **Star**: 31,724 · **Fork**: 2,139 · **开放 issue**: 3,213 · **贡献者**: 363
+- **Star**: 31,742 · **Fork**: 2,140 · **开放 issue**: 3,213 · **贡献者**: 363
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install flameshot
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 9 | 19 | 4 | 10 | 11 |
-| last60d | 2026-09-27 | 1 | 23 | 30 | 12 | 17 | 29 |
-| 90d | 2026-08-28 | 2 | 39 | 39 | 23 | 28 | 40 |
-| last180d | 2026-05-30 | 4 | 93 | 54 | 88 | 70 | 96 |
-| 360d | 2025-12-01 | 5 | 172 | 63 | 201 | 107 | 168 |
-| last720d | 2024-12-06 | 12 | 341 | 67 | 506 | 178 | 446 |
+| 30d | 2026-10-28 | 1 | 9 | 19 | 4 | 10 | 11 |
+| last60d | 2026-09-28 | 1 | 23 | 30 | 11 | 17 | 29 |
+| 90d | 2026-08-29 | 2 | 39 | 39 | 23 | 28 | 40 |
+| last180d | 2026-05-31 | 4 | 93 | 54 | 88 | 70 | 96 |
+| 360d | 2025-12-02 | 5 | 172 | 63 | 199 | 107 | 168 |
+| last720d | 2024-12-07 | 12 | 340 | 67 | 506 | 178 | 446 |
 
 ## Release 资产
 
@@ -102,24 +102,6 @@ x install flameshot
 | [flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip) | 750.3 KiB | `other` |
 | [flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip.sha256sum) | 129 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/flameshot) 上共有 **152** 个发行版报告此项目。**25** 个 ✅ 已是最新上游版本，**116** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `14.0.0` | ⚠️ outdated |
-| Debian 14 | `14.0.0` | ⚠️ outdated |
-| Debian 13 | `12.1.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `13.3.0+git20251204` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `12.1.0` | ⚠️ outdated |
-| Arch | `15.0.0` | ✅ latest |
-| Fedora rawhide | `14.0.0` | ⚠️ outdated |
-| Nix unstable | `15.0.0` | ✅ latest |
-| Void | `13.3.0` | ⚠️ outdated |
-| Alpine edge | `14.0.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `15.0.0` | ✅ latest |
-
 ## 改进这些数据
 
 flameshot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `flameshot` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -129,4 +111,4 @@ flameshot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:48:35Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:20:53Z._

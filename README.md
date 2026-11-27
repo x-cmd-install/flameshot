@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,724 · **Forks**: 2,139 · **Open issues**: 3,213 · **Contributors**: 363
+- **Stars**: 31,742 · **Forks**: 2,140 · **Open issues**: 3,213 · **Contributors**: 363
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 9 | 19 | 4 | 10 | 11 |
-| last60d | 2026-09-27 | 1 | 23 | 30 | 12 | 17 | 29 |
-| 90d | 2026-08-28 | 2 | 39 | 39 | 23 | 28 | 40 |
-| last180d | 2026-05-30 | 4 | 93 | 54 | 88 | 70 | 96 |
-| 360d | 2025-12-01 | 5 | 172 | 63 | 201 | 107 | 168 |
-| last720d | 2024-12-06 | 12 | 341 | 67 | 506 | 178 | 446 |
+| 30d | 2026-10-28 | 1 | 9 | 19 | 4 | 10 | 11 |
+| last60d | 2026-09-28 | 1 | 23 | 30 | 11 | 17 | 29 |
+| 90d | 2026-08-29 | 2 | 39 | 39 | 23 | 28 | 40 |
+| last180d | 2026-05-31 | 4 | 93 | 54 | 88 | 70 | 96 |
+| 360d | 2025-12-02 | 5 | 172 | 63 | 199 | 107 | 168 |
+| last720d | 2024-12-07 | 12 | 340 | 67 | 506 | 178 | 446 |
 
 ## Release assets
 
@@ -102,24 +102,6 @@ Lowest-scoring checks:
 | [flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip) | 750.3 KiB | `other` |
 | [flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip.sha256sum](https://github.com/flameshot-org/flameshot/releases/download/v15.0.0/flameshot-v15.0.0+git0.f4f2e4e-artifact-ubuntu-26.04-arm64.zip.sha256sum) | 129 B | `other` |
 
-## Distribution status
-
-Reported by **152** distros on [repology.org](https://repology.org/project/flameshot). **25** are ✅ on the latest upstream release, **116** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `14.0.0` | ⚠️ outdated |
-| Debian 14 | `14.0.0` | ⚠️ outdated |
-| Debian 13 | `12.1.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `13.3.0+git20251204` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `12.1.0` | ⚠️ outdated |
-| Arch | `15.0.0` | ✅ latest |
-| Fedora rawhide | `14.0.0` | ⚠️ outdated |
-| Nix unstable | `15.0.0` | ✅ latest |
-| Void | `13.3.0` | ⚠️ outdated |
-| Alpine edge | `14.0.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `15.0.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for flameshot lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `flameshot` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -129,4 +111,4 @@ Install metadata for flameshot lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:48:34Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:20:52Z._
